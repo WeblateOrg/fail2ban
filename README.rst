@@ -1,8 +1,6 @@
 fail2ban rules for Weblate
 ==========================
 
-Weblate rules for fail2ban
-
 .. image:: https://s.weblate.org/cdn/Logo-Darktext-borders.png
    :target: https://weblate.org/
    :alt: Weblate
