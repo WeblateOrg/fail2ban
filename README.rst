@@ -8,4 +8,4 @@ Weblate rules for fail2ban
    :alt: Weblate
    :height: 55px
 
-Maintained by `Weblate <https://weblate.org/>`_ — a privacy-respecting localization platform built on open-source foundations.
+Part of `Weblate <https://weblate.org/>`_ — a privacy-respecting localization platform built on open-source foundations.
